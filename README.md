@@ -1,2 +1,2 @@
-# e-xams
+# E-Xams
 A web application for online examinations.
